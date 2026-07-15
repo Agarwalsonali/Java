@@ -1,0 +1,5 @@
+B01,CU01,C01,2025-05-08,return in 2 weeks
+B02,CU04,C02,2025-05-08,Return in 1 month.
+B03,CU02,C03,2025-05-08,Return in 4 weeks.
+B04,CU03,C04,2025-05-08,Return in 1.5 months.
+123,123,C02,2025-05-09,Null

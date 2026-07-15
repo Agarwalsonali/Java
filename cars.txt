@@ -1,0 +1,5 @@
+C01,Baleno,Maruti Suzuki,Kota,true
+C02,BMW,Sedan,Delhi,true
+C03,Kia,SUV,Mumbai,false
+C04,Ferrari,Sports,Bangalore,false
+C05,Creta,SUV,Jaipur,true
